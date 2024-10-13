@@ -1,11 +1,10 @@
 10337
 72/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/.posthtmlrc1728813360332370579 0
-88/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.cd54e4a1.css.map1728814010406293647 0
-84/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.cd54e4a1.css1728814010396293550 0
-76/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.html1728814010388293473 0
-87/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.34242354.js.map1728814010406293647 0
-65/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist1728814010407293657 1
-72/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/header.html1728813859460745288 0
+88/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.5b6c705b.css.map1728819426854692315 0
+76/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.html1728819426841692228 0
+87/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.34242354.js.map1728819426854692315 0
+65/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist1728819426855692322 1
+72/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/header.html1728819314930945928 0
 105/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/function-bind/implementation.js1728749645447724761 0
 97/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/function-bind/README.md1728749645900705287 0
 101/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/function-bind/test/index.js1728749645614717582 0
@@ -940,7 +939,7 @@
 107/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/@parcel/core/src/public/Bundle.js1728745026550386643 0
 95/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/emoji-regex/README.md1728749646029699745 0
 97/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/resolve/test/subdirs.js1728749646658672773 0
-87/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.e95e8f70.js.map1728814010406293647 0
+87/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.e95e8f70.js.map1728819426854692315 0
 93/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/base-x/src/index.js1728745024770527919 0
 81/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/js-yaml1728745026283407864 1
 112/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/cross-spawn/lib/util/resolveCommand.js1728749645777710575 0
@@ -1694,6 +1693,7 @@
 119/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/caniuse-lite/data/features/element-closest.js1728745027580304702 0
 95/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/chalk/source/index.js1728745024930515245 0
 100/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/resolve/test/pathfilter.js1728749646643673416 0
+84/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.5b6c705b.css1728819426848692275 0
 107/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/caniuse-lite/data/features/mp3.js1728745027884280500 0
 110/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/es-abstract/2024/NormalCompletion.js1728749647816623205 0
 105/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/@swc/helpers/src/_construct.mjs1728745027869281694 0
@@ -1799,7 +1799,7 @@
 106/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/side-channel/.github/FUNDING.yml1728749645972702192 0
 109/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/resolve/test/precedence/aaa/main.js1728749646610674831 0
 99/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/side-channel/package.json1728749645529721236 0
-83/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.e95e8f70.js1728814010396293550 0
+83/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.e95e8f70.js1728819426848692275 0
 94/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/msgpackr-extract/src1728745024767528157 1
 96/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/side-channel/.eslintrc1728749644689757379 0
 93/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/side-channel/.nycrc1728749644718756129 0
@@ -2377,7 +2377,7 @@
 105/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/typed-array-byte-length/.github1728749645850707436 1
 93/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/wrap-ansi/readme.md1728749645338729446 0
 100/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/htmlnano/docs/package.json1728745026665377503 0
-74/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/src/style.css1728811462966320632 0
+74/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/src/style.css1728819414349608405 0
 99/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/memorystream/Gruntfile.js1728749645412726265 0
 113/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/caniuse-lite/data/features/xhtmlsmil.js1728745028192255954 0
 139/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/@swc/helpers/cjs/_class_check_private_static_field_descriptor.cjs1728745027646299448 0
@@ -3674,7 +3674,7 @@
 99/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/lightningcss/package.json1728745025788447178 0
 115/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/es-abstract/2022/TypedArrayElementSize.js1728749648315601895 0
 94/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/csso/dist/version.js1728745026950354852 0
-60/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json1728814010371293308 1
+60/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json1728819426818692074 1
 110/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/css-tree/cjs/lexer/generic-const.cjs1728745026597382907 0
 97/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/function.prototype.name1728749646073697858 1
 130/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/abortcontroller-polyfill/src/abortcontroller-polyfill.js1728745025203493594 0
@@ -4909,7 +4909,7 @@
 93/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/npm-run-all/LICENSE1728749644706756647 0
 128/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/csso/node_modules/css-tree/lib/syntax/config/parser.js1728745027512310116 0
 131/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/glob/node_modules/minimatch/dist/commonjs/escape.d.ts.map1728749646305687910 0
-83/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.34242354.js1728814010397293560 0
+83/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/dist/index.34242354.js1728819426848692275 0
 115/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/caniuse-lite/data/features/css-subgrid.js1728745027388319988 0
 110/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/csso/lib/replace/atrule/keyframes.js1728745026855362402 0
 107/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/htmlparser2/lib/WritableStream.js1728745025327483755 0
@@ -9346,7 +9346,7 @@
 106/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/es-abstract/2017/IsExtensible.js1728749647566633898 0
 108/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/es-abstract/2017/IterableToList.js1728749647672629364 0
 110/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/es-abstract/2020/FlattenIntoArray.js1728749647250647415 0
-75/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/src/index.html1728813865801814437 0
+75/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/src/index.html1728819379765376991 0
 105/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/es-abstract/2017/SecFromTime.js1728749648002615249 0
 107/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/es-abstract/2017/IsPropertyKey.js1728749647616631760 0
 100/home/glopezhe97/Escritorio/Master/HTMLYCSS/M2/Proyecto_json/node_modules/string.prototype.trimstart1728749645914704685 1
